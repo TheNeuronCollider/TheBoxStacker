@@ -1,9 +1,11 @@
-# The Box Stacker Tool (REPOSITORY IN PROGRESS ⚠️)
+# The Box Stacker Tool 📦
 ![Half_Slide_1](https://github.com/user-attachments/assets/29fcfb81-7bc8-489e-a27e-376f13513e9d)
 
   A tool that stacks everything! Using the PCG Framework for Procedural Content Generation, in Unreal Engine 5. 😎
 
   Post in Art Station 👉 https://www.artstation.com/artwork/PX89JL
+
+  Note: This project includes assets from Megascans! 😊
 
 https://github.com/user-attachments/assets/a919f49c-7c0b-4150-8e97-000ff8897ce6
 
